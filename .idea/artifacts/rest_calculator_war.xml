@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="rest-calculator:war">
+    <output-path>$PROJECT_DIR$/rest-calculator/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>rest-calculator</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="rest-calculator-0.0.1-SNAPSHOT.war">
+      <element id="artifact" artifact-name="rest-calculator:war exploded" />
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,19 @@
+button{
+    height: 100%;
+    width: 100%;
+}
+
+.calculator-numbers{
+    background: #303030;
+    color: white;
+}
+
+.calc-subbody {
+    display: flex;
+    justify-content: center;
+}
+
+
+snack-bar-container.mat-snack-bar-container {
+    background: #e91e63 !important;
+}
