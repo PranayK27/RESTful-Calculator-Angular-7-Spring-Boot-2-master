@@ -1,6 +1,6 @@
 # Calculator (RESTful)
 
-RestCalculatorAngular.htm 
+RestCalculatorAngular.html
 
 This is a RESTful Calculator implemented whit Core backend using JAVA Spring (Spring boot 2) REST APIs & Frontend using Angular 7 (https://angular.io/) / Angular Material design (https://material.angular.io).
 
@@ -27,7 +27,14 @@ REST (REpresentational State Transfer) is an architectural style, and an approac
 ## Getting Started
 
 To install this example application, run the following commands:
+git clone https://github.com/PranayK27/RESTful-Calculator-Angular-7-Spring-Boot-2-master
+cd RESTful-Calculator-Angular-7-Spring-Boot-2
 
+```bash
+git clone https://github.com/PranayK27/RESTful-Calculator-Angular-7-Spring-Boot-2-master
+
+cd RESTful-Calculator-Angular-7-Spring-Boot-2
+```
 
 This will get a copy of the project installed locally. To install all of its dependencies and start each app, follow the instructions below.
 
@@ -51,4 +58,4 @@ Component         | URL
 ---               | ---                                      
 Frontend          |  http://localhost:4200 (default port)                   
 Swagger (API Ref) |  http://localhost:8080/swagger-ui.html
-
+API docs          |  http://localhost:8080//v2/api-docs

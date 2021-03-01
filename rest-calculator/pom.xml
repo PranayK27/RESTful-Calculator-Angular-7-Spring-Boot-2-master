@@ -13,7 +13,7 @@
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>war</packaging>
 	<name>rest-calculator</name>
-	<description>RESTFull calculator - created by Mohamed Eddaakouri</description>
+	<description>RESTFull calculator - created by Pranay Kekre</description>
 
 	<properties>
 		<java.version>1.8</java.version>

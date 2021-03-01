@@ -81,7 +81,12 @@ public class CalculatorControllerTests {
 		String expectedResult = "{\"message\":\"Error: One of the operands is not valid\",\"error\":true,\"result\":null}";
 
 		assertEquals(HttpStatus.OK.value(), response.getStatus());
-		
+
+
+
+
+/*gfhgghxcfhgvjhkj.hjghfxfyjdhfxhfgchgv*/
+
 		assertEquals(expectedResult, response.getContentAsString());
 
 	}
